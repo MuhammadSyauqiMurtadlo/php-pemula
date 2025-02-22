@@ -1,3 +1,3 @@
-# PHP Pemula
+# PHP Beginner
 
-Ini adalah project Belajar PHP dasar saya bersama WPU (Web Programming UNPAS), Pak Sandhika Galih.
+This is my basic PHP learning project with WPU (Web Programming UNPAS), Mr. Sandhika Galih.
